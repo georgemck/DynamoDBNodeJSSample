@@ -1,0 +1,118 @@
+{
+    "BIN_FCSKU_DATA": {
+      "M": {
+        "B000A8C5QE": {
+          "M": {
+            "asin": {
+              "S": "B000A8C5QE"
+            },
+            "height": {
+              "M": {
+                "unit": {
+                  "S": "IN"
+                },
+                "value": {
+                  "N": "4.200000000000001"
+                }
+              }
+            },
+            "length": {
+              "M": {
+                "unit": {
+                  "S": "IN"
+                },
+                "value": {
+                  "N": "4.7"
+                }
+              }
+            },
+            "name": {
+              "S": "MSR PocketRocket Stove"
+            },
+            "quantity": {
+              "N": "1"
+            },
+            "weight": {
+              "M": {
+                "unit": {
+                  "S": "pounds"
+                },
+                "value": {
+                  "N": "0.45"
+                }
+              }
+            },
+            "width": {
+              "M": {
+                "unit": {
+                  "S": "IN"
+                },
+                "value": {
+                  "N": "4.4"
+                }
+              }
+            }
+          }
+        },
+        "B0064LIWVS": {
+          "M": {
+            "asin": {
+              "S": "B0064LIWVS"
+            },
+            "height": {
+              "M": {
+                "unit": {
+                  "S": "IN"
+                },
+                "value": {
+                  "N": "1.2"
+                }
+              }
+            },
+            "length": {
+              "M": {
+                "unit": {
+                  "S": "IN"
+                },
+                "value": {
+                  "N": "5.799999999999999"
+                }
+              }
+            },
+            "name": {
+              "S": "Applied Nutrition Liquid Collagen Skin Revitalization, 10 Count 3.35 Fl Ounce"
+            },
+            "quantity": {
+              "N": "1"
+            },
+            "weight": {
+              "M": {
+                "unit": {
+                  "S": "pounds"
+                },
+                "value": {
+                  "N": "0.3499999999999999"
+                }
+              }
+            },
+            "width": {
+              "M": {
+                "unit": {
+                  "S": "IN"
+                },
+                "value": {
+                  "N": "4.7"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "EXPECTED_QUANTITY": {
+      "N": "2"
+    },
+    "image_fname": {
+      "S": "523.jpg"
+    }
+  }

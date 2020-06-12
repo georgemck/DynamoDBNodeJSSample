@@ -1,0 +1,48 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B002PAQM3M": {
+            "asin": "B002PAQM3M",
+            "height": {
+                "unit": "IN",
+                "value": 7.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.400000000000002
+            },
+            "name": "Anchor Hocking Presence Party Bowl with White Plastic Lid",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 4.9
+            },
+            "width": {
+                "unit": "IN",
+                "value": 13.2
+            }
+        },
+        "B009AB1TMS": {
+            "asin": "B009AB1TMS",
+            "height": {
+                "unit": "IN",
+                "value": 6.299999999999999
+            },
+            "length": {
+                "unit": "IN",
+                "value": 10.9
+            },
+            "name": "Enesco Foundations Mother and Bride Figurine, 9-Inch",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.25
+            },
+            "width": {
+                "unit": "IN",
+                "value": 8.8
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2,
+    "image_fname": "533.jpg"
+}

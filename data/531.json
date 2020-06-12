@@ -1,0 +1,27 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00PCQXBY4": {
+            "asin": "B00PCQXBY4",
+            "height": {
+                "unit": "IN",
+                "value": 5.6
+            },
+            "length": {
+                "unit": "IN",
+                "value": 13.700000000000001
+            },
+            "name": "3M Littmann Classic III Stethoscope, Stainless-Steel-Finish Chestpiece, Turquoise Tube 27, inch, 5835",
+            "quantity": 2,
+            "weight": {
+                "unit": "pounds",
+                "value": 2.7999999999999994
+            },
+            "width": {
+                "unit": "IN",
+                "value": 7.0
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2,
+    "image_fname": "531.jpg"
+}

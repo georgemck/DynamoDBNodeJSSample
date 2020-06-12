@@ -1,0 +1,48 @@
+{
+    "BIN_FCSKU_DATA": {
+        "B00D23G1DW": {
+            "asin": "B00D23G1DW",
+            "height": {
+                "unit": "IN",
+                "value": 2.4
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.0
+            },
+            "name": "FOREO Luna for Combination Skin, T-Sonic Facial Cleansing & Anti-Aging Device",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.6999999999999998
+            },
+            "width": {
+                "unit": "IN",
+                "value": 6.8999999999999995
+            }
+        },
+        "B00T3293WW": {
+            "asin": "B00T3293WW",
+            "height": {
+                "unit": "IN",
+                "value": 3.3070866141732282
+            },
+            "length": {
+                "unit": "IN",
+                "value": 7.559055118110236
+            },
+            "name": "POC DO Blade Sunglasses, Granate Red/Hydrogen White, One Size",
+            "quantity": 1,
+            "weight": {
+                "unit": "pounds",
+                "value": 0.04409200237214973
+            },
+            "width": {
+                "unit": "IN",
+                "value": 4.645669291338582
+            }
+        }
+    },
+    "EXPECTED_QUANTITY": 2,
+    "image_fname": "532.jpg"
+}

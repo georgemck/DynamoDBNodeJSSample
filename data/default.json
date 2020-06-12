@@ -1,0 +1,5 @@
+{
+    "BIN_FCSKU_DATA": "string",
+    "EXPECTED_QUANTITY": "number",
+    "image_fname": "string"
+}
