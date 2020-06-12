@@ -10,8 +10,6 @@
   "author": "@georgemck",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.694.0",
-    "dynamodb-types": "^1.0.4",
-    "json-dynamo-putrequest": "^1.0.0"
+    "aws-sdk": "^2.694.0"
   }
 }
